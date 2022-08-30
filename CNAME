@@ -1,6 +1,0 @@
-the-h4ck3r.com
-$dig WWW.EXAMPLE.COM +nostats +nocomments +nocmd
-    > ;the-h4ck3r.com                     IN      A
-    > the-h4ck3r.com              3592    IN      CNAME   Nightmarex86.github.io.
-    > Nightmarex86.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
